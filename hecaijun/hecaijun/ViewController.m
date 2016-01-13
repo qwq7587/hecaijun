@@ -28,6 +28,9 @@
     NSLog(@"我饿了");
     NSLog(@"我饿了");
     NSLog(@"我饿了");
+    
+    NSLog(@"1231231");
+    NSLog(@"233534");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
